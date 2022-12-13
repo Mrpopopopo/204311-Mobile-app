@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "bdb310744219cd07dd07d563f9bd2a0055d9cdb614bd7eea24fa4e582b169678"
+build_start_time: [1670419361, 333333015]
+build_end_time: [1670419361, 399312019]
+inputs:
+  "/Users/thanadolpanya/Desktop/Mobile app/cs311hw02/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1670419339, 791956901]
+  "/Users/thanadolpanya/Desktop/Mobile app/cs311hw02/macos/Runner/AppDelegate.swift": !private [1669965128, 288391828]
+  "/Users/thanadolpanya/Desktop/Mobile app/cs311hw02/macos/Runner/MainFlutterWindow.swift": !private [1669965128, 294898509]
