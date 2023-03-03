@@ -35,7 +35,6 @@ class _VideoPlayerScreenState extends State<VideoPLayerScreenState> {
           title: Center(
             child: Text(widget.videoName),
           ),
-          backgroundColor: const Color.fromARGB(255, 255, 17, 0),
         ),
         body: FutureBuilder(
           future: _initializeVideoPlayerFuture,
